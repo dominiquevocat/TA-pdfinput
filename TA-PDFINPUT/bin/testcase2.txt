@@ -1,0 +1,402 @@
+***SPLUNK*** index=indexname source="sourcename" sourcetype="sourcetypename"
+Gmail - Your Electronic Ticket Receipt
+
+https://mail.google.com/mail/u/0/?ui=2&ik=fd0ea4a5dc&jsver=...
+
+Your Electronic Ticket Receipt
+Klm Sales & Service Center Switzerland <eticket@amadeus.com>
+To: CURIOUS.SLE@gmail.com
+
+Dominique Vocat <curious.sle@gmail.com>
+
+Wed, Jul 26, 2017 at 1:04 PM
+
+Electronic Ticket Receipt
+
+_
+
+Booking Reference: VXRRGT
+
+Office
+
+Passenger
+
+Ticket number
+
+Vocat Dominique Mr (ADT)
+
+074 2408312124
+
+_
+
+Itinerary
+
+From
+
+To
+
+FlightClassDateDepartu
+
+re
+
+ArrivalResa
+(1)
+
+KLM SALES & SERVICE CENTER
+SWITZERLAND
+BACK OFFICE MANILA
+BERNE
+Telephone: +41 848874444
+
+NVB(2) NVA(3) Last check-inBaggage
+
+Seat
+
+(4)
+
+1PC
+
+MULHOUSE
+BASEL BASEL
+EUROAIRPORT
+
+AMSTERDAM
+SCHIPHOL
+AIRPORT
+
+KL1986
+
+L
+
+22Sep 10:15 11:45
+
+Ok
+
+22Sep 22Sep
+
+Fare Basis
+
+TLWSRSW
+
+Operated by
+
+KLM CITYHOPPER
+
+Marketed by
+
+KLM ROYAL DUTCH AIRLINES
+
+_
+
+AMSTERDAM
+SCHIPHOL
+AIRPORT
+
+WASHINGTON
+DULLES INTL
+
+Operated by
+
+_
+
+KL0651
+
+T
+
+22Sep 13:20 15:35
+
+Ok
+
+22Sep 22Sep
+
+1PC
+
+Fare Basis
+
+TLWSRSW
+
+KLM ROYAL DUTCH
+AIRLINES
+
+Marketed by
+
+KLM ROYAL DUTCH AIRLINES
+
+1 von 4
+
+26.07.2017 17:11
+
+Gmail - Your Electronic Ticket Receipt
+
+https://mail.google.com/mail/u/0/?ui=2&ik=fd0ea4a5dc&jsver=...
+
+WASHINGTON
+DULLES INTL
+
+AMSTERDAM
+SCHIPHOL
+AIRPORT
+
+KL0652
+
+T
+
+02Oct 17:45 07:20
+
+Ok
+
+02Oct
+
+02Oct
+
+1PC
+
+Fare Basis
+
+TLWSRSW
+
+Operated by
+
+KLM ROYAL DUTCH
+AIRLINES
+
+Marketed by
+
+KLM ROYAL DUTCH AIRLINES
+
+Arrival Day+1
+
+_
+
+AMSTERDAM
+SCHIPHOL
+AIRPORT
+
+MULHOUSE
+BASEL BASEL
+EUROAIRPORT
+
+KL1991
+
+L
+
+06Oct 20:30 21:45
+
+Ok
+
+06Oct
+
+06Oct
+
+1PC
+
+Operated by
+
+KLM CITYHOPPER
+
+Marketed by
+
+KLM ROYAL DUTCH AIRLINES
+
+Fare Basis
+
+TLWSRSW
+
+_
+
+(1) Ok = confirmed (2) NVB = Not valid before (3) NVA = Not valid after (4)Each passenger can check in a specific
+amount of baggage at no extra cost as indicated above in the column baggage.
+
+Baggage Policy
+
+BSLIAD
+
+1st Checked Bag:
+
+Free of Charge
+
+UPTO50LB 23KG AND62LI 158LCMOR MEDIA EQUIPMENT UPTO50 LB 23KGOR
+SPORT EQUIP SMALL DIMENSIONS
+
+2nd Checked Bag:
+
+94.00CHF
+
+UPTO50LB 23KG AND62LI 158LCM
+
+IADBSL
+
+1st Checked Bag:
+
+Free of Charge
+
+UPTO50LB 23KG AND62LI 158LCMOR MEDIA EQUIPMENT UPTO50 LB 23KGOR
+SPORT EQUIP SMALL DIMENSIONS
+
+2nd Checked Bag:
+
+94.00CHF
+
+UPTO50LB 23KG AND62LI 158LCM
+
+CARRY-ON BAG:
+
+BSLAMS: MAX 1PC
+
+Free of Charge
+
+CABIN BAGGAGE 12KG 1PC 115CM
+
+AMSIAD: MAX 1PC
+
+Free of Charge
+
+CABIN BAGGAGE 12KG 1PC 115CM
+
+IADAMS: MAX 1PC
+
+Free of Charge
+
+CABIN BAGGAGE 12KG 1PC 115CM
+
+AMSBSL: MAX 1PC
+
+Free of Charge
+
+CABIN BAGGAGE 12KG 1PC 115CM
+
+LB = Weight In Pounds, KG = Weight In Kilos, LI = Linear Inches, LCM = Linear Centimeters, MAX = Maximum Allowed, PC = Number of Pieces
+
+Baggage allowance and charges are provided for information only. Additional discounts may apply depending on advance purchase or Flyer-specific
+factors (e.g. Frequent flyer status, military, Credit card used for purchase, early purchase over the internet, etc.) Most carriers' e-tickets have expiration
+dates and conditions of use. Check the carrier's fare rules for more information.
+
+2 von 4
+
+26.07.2017 17:11
+
+Gmail - Your Electronic Ticket Receipt
+
+https://mail.google.com/mail/u/0/?ui=2&ik=fd0ea4a5dc&jsver=...
+
+Receipt
+
+Name
+
+: Vocat Dominique Mr (ADT)
+
+Ticket number
+
+: 074 2408312124
+
+Form of payment
+
+: CC VI XXXXXXXXXXXX5667 Exp0919 M116796 : 1020.97
+
+Fare
+
+: CHF 564.00
+
+Tax & Carrier Fees/Charges
+
+:CHF
+
+321.00 YR
+
+CHF
+
+10.90 CH
+
+CHF 9.50 UU
+
+CHF
+
+18.00 CJ
+
+CHF
+
+19.50 RN
+
+CHF 5.50 YC
+
+CHF
+
+17.50 US
+
+CHF
+
+17.50 US
+
+CHF 4.00 XA
+
+CHF
+
+7.00 XY
+
+CHF
+
+5.50 AY
+
+CHF 4.50 XF
+
+CHF
+
+16.57 OB
+
+Total Amount
+
+: CHF 1020.97
+
+Issuing Airline and date
+
+: KLM ROYAL DUTCH AIRLINES 26Jul17
+
+IATA : 81495024
+
+Restriction(s)/Endorsements
+
+: Non Endo/ Fare Rstr Could Apply -Bg Kl
+
+Fare Calculation
+
+:BSL KL X/E/AMS KL WAS M249.19KL E/AMS S84.17KL BSL
+M249.19NUC582.55END ROE0.967100 XF IAD4.5
+
+_
+
+_
+
+_
+
+Carrier Surcharges and/or fees collected are shown as tax code OA/OB/YR/YQ on your ticket
+
+In accordance with the Grenelle law you can display the information related to the carbon consumed : click here
+http://www.icao.int/environmental-protection/CarbonOffset/Pages/default.aspx
+
+_
+
+The carriage of certain hazardous materials, like aerosols, fireworks, and flammable liquids, aboard the aircraft is
+forbidden. If you do not understand these restrictions, further information may be obtained from your airline.
+
+_
+
+Internet check-in:
+
+Avoid the crowd, select your seat and print out your boarding pass by using Internet check-in. Click on the link below
+to check in and your check-in information pops right up on your screen.
+Internet check-in becomes available 30 hours prior to departure(24 hours for flight to or from United States)
+Check in now
+
+In accordance with the terms and conditions shown when this booking was made at our website, klm.com,
+administration costs as well as costs stipulated in the ticketing conditions can be charged in the event of a ticket
+change or a request for a refund.
+
+Notice:
+
+Upon booking your ticket you accepted KLMs General conditions of Carriage for passengers and baggage ('General
+
+3 von 4
+
+26.07.2017 17:11
+
+
